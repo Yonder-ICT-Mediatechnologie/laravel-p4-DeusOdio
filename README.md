@@ -1,1 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/yt4LKvL_)
+Dit is een eenvoudig Laravel-project met een basis-CRUD-functionaliteit.
+
+Gebruikers kunnen zich registreren en inloggen.
+Na het inloggen kom je op de homepagina, waar alle berichten worden weergegeven.
+Je kunt zelf berichten toevoegen, bewerken en verwijderen.
+Ook is het mogelijk om je accountgegevens aan te passen of je account te verwijderen.
+
+De database is gekoppeld via XAMPP MySQL.
+Voor de opmaak is gebruikgemaakt van Tailwind CSS, en Vite zorgt voor de frontend-bundeling.
+
+Om de ontwikkelserver lokaal te starten, gebruik je het volgende commando in de terminal:
+> npm run dev:full 
+Dit start zowel de Laravel-server als Vite.
