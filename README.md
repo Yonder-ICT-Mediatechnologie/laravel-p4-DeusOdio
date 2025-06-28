@@ -11,4 +11,5 @@ Voor de opmaak is gebruikgemaakt van Tailwind CSS, en Vite zorgt voor de fronten
 Om de ontwikkelserver lokaal te starten, gebruik je het volgende commando in de terminal
 
 npm run dev:full
+
 Dit start zowel de Laravel-server als Vite.
