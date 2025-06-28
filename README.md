@@ -8,7 +8,7 @@ Ook is het mogelijk om je accountgegevens aan te passen of je account te verwijd
 De database is gekoppeld via XAMPP MySQL.
 Voor de opmaak is gebruikgemaakt van Tailwind CSS, en Vite zorgt voor de frontend-bundeling.
 
-Om de ontwikkelserver lokaal te starten, gebruik je het volgende commando in de terminal
+Om de ontwikkelserver lokaal te starten, gebruik je het volgende command in de terminal
 
 npm run dev:full
 
